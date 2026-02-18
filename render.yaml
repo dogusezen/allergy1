@@ -22,4 +22,5 @@ services:
         fromService:
           type: web
           name: allergy-backend
-          property: url
+          property: host
+
